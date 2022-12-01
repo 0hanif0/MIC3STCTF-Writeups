@@ -78,3 +78,50 @@
 * bagi aku hint ni maksudnya cookies sebab dekat website biasa ada cookies
 * seterusnya korang edit cookies
 
+![15](https://user-images.githubusercontent.com/23289982/205062789-87a1bba7-91ce-4540-aa35-4932cecd59b8.png)
+
+* nak edit cookies korang right click tekan `inspect element`
+* macam dalam gambar korang tekan `application` > `cookies` > dan korang edit value kepada `true`
+
+![image](https://user-images.githubusercontent.com/23289982/205063399-3cf81c89-b1cc-4453-8be0-3ef58dde0229.png)
+
+* lepas edit kepada `true` korang refresh balik page
+* korang akan dapat QR 2 yang perlu di decode
+* untuk QR 2 ni dia ada beza sedikit dengan QR 1 jika di compare
+* korang download je dulu QR 2 tu
+* QR 2 ni perlu di edit sebab scanner tak dapat detect
+* pertama sekali korang kena edit color QR sebab color dia sebenarnya invert 
+* korang boleh guna tools online ni [INVERT COLORS ONLINE](https://pinetools.com/invert-image-colors) untuk edit color
+
+![image](https://user-images.githubusercontent.com/23289982/205069818-67515a68-a676-4774-9445-b117c3ed3905.png)
+
+* korang download je dulu gambar yang sudah invert
+* seterusnya korang kena edit dekat bahagian petak QR
+* kena tambah sedikit petak kena edit QR
+
+ ![16](https://user-images.githubusercontent.com/23289982/205071053-58e527ac-6abd-4f3b-a005-93c41dde7d20.png)
+
+* edit macam dalam gambar, guna kreativiti korang macam mana kalau aku pakai paint je
+* lepastu korang scan QR akan dapat link untuk flag
+
+![17](https://user-images.githubusercontent.com/23289982/205072196-081c0461-7baa-4590-ac63-120fef1c6405.png)
+
+* macam biasa korang `view page source` untuk cari hint
+
+![18](https://user-images.githubusercontent.com/23289982/205072304-12fc7f30-e8c4-465d-b508-f7ef11faa658.png)
+
+![19](https://user-images.githubusercontent.com/23289982/205072907-44819575-21b7-46a0-a2dd-954e2b11671f.png)
+
+* korang replace je URL macam dalam gambar untuk page seterusnya
+
+![20](https://user-images.githubusercontent.com/23289982/205073051-f7c10b24-321d-4c73-8ce3-d392f694e14e.png)
+
+ * korang submit je flag yang dapat dari QR 2 ke sini 
+ * dan korang berjaya untuk ke level 5
+
+## level 5 > level 6
+
+![image](https://user-images.githubusercontent.com/23289982/205073605-a2d03981-3b1a-4a4b-b624-9e3bc84c2a92.png)
+
+# COMING SOON
+# sambung lain kali . penat tau buat tutorial ni . kalu tak faham boleh tanya
