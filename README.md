@@ -125,3 +125,5 @@
 
 # COMING SOON
 # sambung lain kali . penat tau buat tutorial ni . kalu tak faham boleh tanya
+# sekian terima kasih
+# anepp peace
