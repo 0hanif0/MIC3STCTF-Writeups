@@ -123,7 +123,73 @@
 
 ![image](https://user-images.githubusercontent.com/23289982/205073605-a2d03981-3b1a-4a4b-b624-9e3bc84c2a92.png)
 
-# COMING SOON
-# sambung lain kali . penat tau buat tutorial ni . kalu tak faham boleh tanya
-# sekian terima kasih
-# anepp peace:v:
+![21](https://user-images.githubusercontent.com/23289982/205302809-f84060a5-5675-434b-86ea-b06bd39a2475.png)
+
+* korang replace URL mcm dlm gambar untuk hint seterusnya
+
+![22](https://user-images.githubusercontent.com/23289982/205303099-0354e035-68b5-4841-bddc-5b236b8f64d4.png)
+
+* hint `<trut tut tut tut tut></trut>` bermaksud ini adalah morse code
+
+* korang translate no 6 guna [morse code translator](https://morsecode.world/international/translator.html) akan dapat output
+* kenapa no 6 sebab kita nak ke level 6
+* korang replace je morse code tersebut macam gambar bawah
+
+![23](https://user-images.githubusercontent.com/23289982/205304180-d53ce2fb-4024-4854-b9d6-0e0f272b5496.png)
+
+* korang akan ke page seterusnya ialah finale
+
+![image](https://user-images.githubusercontent.com/23289982/205304427-e4e5b515-61ae-4c4d-9b1b-ecad416e78ea.png)
+
+* dekat finale korang tekan `terminal` in new tab dan `view page source`
+* masa dekat `terminal` tu korang kena cepat cepat buka `view page source` sebab ada timer untuk redirect ke page lain
+
+![24](https://user-images.githubusercontent.com/23289982/205305091-c2ab87e9-565f-46a8-a81e-1e80d1f5d940.png)
+
+![27](https://user-images.githubusercontent.com/23289982/205306018-bbe9c72d-2657-4fe7-97d6-6899a853c63b.png)
+
+* itu adalah hint pertama untuk gambar dibawah
+
+![image](https://user-images.githubusercontent.com/23289982/205306242-8e60d804-eb00-48db-be4b-bd3f3c57df30.png)
+
+* selepas dah buka korang tekan `./script.js` untuk hint seterusnya
+
+![25](https://user-images.githubusercontent.com/23289982/205305752-a42d3d57-a5eb-4d5c-957a-ed81a98af2d5.png)
+
+![26](https://user-images.githubusercontent.com/23289982/205305765-0a835a39-8c4f-4d0f-b5f8-25d37c8d3d0d.png)
+
+* di page ini terdapat dua hint iaitu `md5 $agent.code` dan `MD5 ALL CAPS`
+* berdasarkan hint tersebut kemungkinan page ini menggunakan [user agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent) nak tahu kenapa user agent korang boleh tekan link tersebut
+* untuk hint tersebut bermaksud korang perlu menggunakan hash md5
+* korang boleh pakai tools [MD5 Hash Generator](https://www.md5hashgenerator.com/)
+
+![image](https://user-images.githubusercontent.com/23289982/205307757-1c64e089-2761-4c82-a30a-65d9af426b37.png)
+
+* korang hash sahaja `007`
+* kenapa 007 sebab hint kat atas tadi ada sebut `bond`
+* bond dan 007 korang boleh tahu di dalam movie james bond
+* seterusnya hint ke kedua ialah semua hash tersebut perlu di UPPERCASE
+* korang akan dapat `9E94B15ED312FA42232FD87A55DB0D39` untuk digunakan dalam user agent
+* seterunya korang kena setup user agent
+* korang buka `terminal` tadi dan `view page source` page tersebut
+* seterusnya korang buka `inspect element` page tu macam gambar bawah
+
+![28](https://user-images.githubusercontent.com/23289982/205311973-95ba8367-7665-451f-a0c8-46bb5496bef3.png)
+
+* korang click `3 dot ` > `more tools` > `network condition` untuk setup user agent
+
+![29](https://user-images.githubusercontent.com/23289982/205312565-a00f05a8-0099-4512-ab42-164fc3e4013b.png)
+
+* korang akan dapat satu tab `network conditions` > untick `use browser default` > replace md5 tadi ke ruangan tu seperti gambar
+* korang just refresh saja page tu atau tekan `F5`
+* jengjengjeng korang akan dapat final flag
+* korang submit sahaja flag tersebut dan korang akan dibawa ke page terakhir
+* tahniah buat korang yang dah berjaya, ini gambar untuk page akhir tu
+
+![image](https://user-images.githubusercontent.com/23289982/205313926-bfe38359-7956-4e6f-81fc-1513e6050fc3.png)
+
+# TAHNIAH KORANG DAH BERJAYA!
+
+### pape rojer kat [telegram](https://telegram.me/mdhanif0)
+### sekian terima kasih
+### anepp peace:v:
