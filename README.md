@@ -1,4 +1,4 @@
-# ctf-mic3st [link](https://ctf.mic3st.com/)
+# mic3stctf [https://ctf.mic3st.com/](https://ctf.mic3st.com/)
 
 ## level 1 > level 2
 
