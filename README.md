@@ -1,4 +1,5 @@
-# mic3stctf [https://ctf.mic3st.com/](https://ctf.mic3st.com/)
+# MIC3STCTF Writeups
+- Link: [https://ctf.mic3st.com/](https://ctf.mic3st.com/)
 
 ## level 1 > level 2
 
@@ -184,12 +185,8 @@
 * korang just refresh saja page tu atau tekan `F5`
 * jengjengjeng korang akan dapat final flag
 * korang submit sahaja flag tersebut dan korang akan dibawa ke page terakhir
-* tahniah buat korang yang dah berjaya, ini gambar untuk page akhir tu
 
 ![image](https://user-images.githubusercontent.com/23289982/205313926-bfe38359-7956-4e6f-81fc-1513e6050fc3.png)
 
-# TAHNIAH KORANG DAH BERJAYA!
-
-### pape rojer kat [telegram](https://telegram.me/mdhanif0)
-### sekian terima kasih
-### anepp peace:v:
+* ini adalah page terakhir, Tahniah buat korang yang berjaya sampai kesini.
+# THE END!
