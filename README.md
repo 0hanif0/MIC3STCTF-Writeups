@@ -1,5 +1,6 @@
 # MIC3STCTF Writeups
 - Link: [https://ctf.mic3st.com/](https://ctf.mic3st.com/)
+- In these writeups, I use the Malay language.
 
 ## level 1 > level 2
 
